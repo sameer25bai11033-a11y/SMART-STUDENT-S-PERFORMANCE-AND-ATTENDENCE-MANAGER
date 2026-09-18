@@ -1,0 +1,4 @@
+id,name,email,course,attendancePercent,averageMarks,updatedDate
+S101,Aarav Sharma,aarav@example.com,BCA,86.50,78.00,2026-09-17
+S102,Diya Verma,diya@example.com,BCA,72.00,84.50,2026-09-17
+S103,tanay,tanay@example.com,cse,80.00,70.00,2026-09-17
